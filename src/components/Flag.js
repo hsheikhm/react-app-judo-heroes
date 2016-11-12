@@ -42,7 +42,7 @@ class Flag extends React.Component {
 
 Flag.propTypes = {
   code: React.PropTypes.string.isRequired,
-  showName: React.PropTypes.bool
+  showName: React.PropTypes.string
 };
 
 export default Flag;
