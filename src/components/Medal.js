@@ -9,7 +9,7 @@ const typeMap = {
   'B': 'Bronze'
 };
 
-class Medal extends React.Componenet {
+class Medal extends React.Component {
   render() {
     return (
       <li className="medal">
